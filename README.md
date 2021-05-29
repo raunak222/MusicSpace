@@ -1,14 +1,14 @@
 #  Campground Project
 
 ## Functionalities
-- A user can perform CRUD functionality on campground
-- A user can rate and review a campground
-- User Authentication
+- A user can add himself/herself as a band 
+- A user can rate and review  Music Bands
+- - User Authentication
 - [Cloudinary](https://cloudinary.com/) is used for cloud storage.
 - [Mapbox](https://www.mapbox.com/) is used for geolocation identification.
 - [heroku](https://www.heroku.com/) is used for application deployment.
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) is used for Database.
-- Website link = https://safe-tundra-61913.herokuapp.com/
+- Website link = https://quiet-depths-68319.herokuapp.com/
 
 ___
 
@@ -21,4 +21,4 @@ To run app locally, use :
 <br>
 <br>
 
-![Project Image](https://res.cloudinary.com/dzex6ikkr/image/upload/v1614494008/YelpCamp/yelp_apd23b.png)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/public/images/home_band.jpg)
