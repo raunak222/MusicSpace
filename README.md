@@ -1,4 +1,4 @@
-#  Campground Project
+#  The MusicSpace
 
 ## Functionalities
 - A user can add himself/herself as a band 
@@ -20,5 +20,5 @@ To run app locally, use :
 
 <br>
 <br>
-
+ ## Feel The MusicSpace
 ![Project Image](https://github.com/raunak222/MusicSpace/blob/main/public/images/home_band.jpg)
