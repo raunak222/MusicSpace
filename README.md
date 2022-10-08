@@ -33,6 +33,9 @@ To run app locally, use :
 ## Individual Bands
 ![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_in.JPG)
 
+## Login
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/login_musicspace.JPG)
+
 ## Individual Bands Review
 ![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/review.JPG)
 
