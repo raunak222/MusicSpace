@@ -23,3 +23,18 @@ To run app locally, use :
 
 ## HomePage
 ![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/front_musicspace.JPG)
+
+## Footer
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/dropdown_musicspace.JPG)
+
+## Bands
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_musicspace.JPG)
+
+## Individual Bands
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_in.JPG)
+
+## Individual Bands Review
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/review.JPG)
+
+## New Band Register 
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/new_band.JPG)
