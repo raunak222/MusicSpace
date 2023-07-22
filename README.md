@@ -22,22 +22,22 @@ To run app locally, use :
 <br>
 
 ## HomePage
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/front_musicspace.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/front_musicspace.jpg)
 
 ## Footer
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/dropdown_musicspace.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/dropdown_musicspace.jpg)
 
 ## Bands
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_musicspace.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_musicspace.jpg)
 
 ## Individual Bands
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_in.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/bands_in.jpg)
 
 ## Login
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/login_musicspace.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/login_musicspace.jpg)
 
 ## Individual Bands Review
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/review.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/review.jpg)
 
 ## New Band Register 
-![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/new_band.JPG)
+![Project Image](https://github.com/raunak222/MusicSpace/blob/main/images/new_band.jpg)
